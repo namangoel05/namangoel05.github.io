@@ -29,3 +29,5 @@ Similarities:
 -Solving problems
 
 How do you view yourself in relation to these two areas? 
+
+Personally, I see myself as a convergence of these 2 fields. Primarily because, having gained the theoretical knowledge of statistics has helped me understand on a fundamental level the tools and techniques that can be used to extract meaningful insights from data and additionally having worked on projects which required dealing with large amounts of data in a systematic manner allowed me to deploy those skills to more scalable problems and get similar insights from them.
