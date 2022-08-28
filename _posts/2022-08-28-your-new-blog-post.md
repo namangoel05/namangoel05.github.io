@@ -10,4 +10,16 @@ A data scientist leverages his/her skills to draw meaningful insights from data 
 
 What differences/similarities do you see between data scientists and statisticians?
 
+The field of data science and statistics has its differences and similarities as per my understanding, some of them are stated below:
+
+Differences:
+-The size of data consumed and processed
+-Types of problems studied
+-Modelling Process
+
+Similarities:
+-Knowledge of statistics
+-Using statistics to extract insights from data
+-Solving problems
+
 How do you view yourself in relation to these two areas? 
