@@ -13,13 +13,13 @@ What differences/similarities do you see between data scientists and statisticia
 The field of data science and statistics has its differences and similarities as per my understanding, some of them are stated below:
 
 Differences:
--The size of data consumed and processed
--Types of problems studied
--Modelling Process
+The size of data consumed and processed
+Types of problems studied
+Modelling Process
 
 Similarities:
--Knowledge of statistics
--Using statistics to extract insights from data
--Solving problems
+Knowledge of statistics
+Using statistics to extract insights from data
+Solving problems
 
 How do you view yourself in relation to these two areas? 
