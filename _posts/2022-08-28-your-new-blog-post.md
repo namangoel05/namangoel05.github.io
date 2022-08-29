@@ -8,6 +8,8 @@ What do you see as the major duties and/or knowledge areas?
 
 A data scientist leverages his/her skills to draw meaningful insights from data and allows decisions to be made using these insights. They are responsible to work with data in whichever form or nature, and make the data useful. In a sense, they make data powerful and useful. A data scienstist is expected to not only use the data to derive meaning from, but also clean, manage, and process that data so that the data can later be used for further analysis and modelling purposes. In today's time, a data scienstist could come from a wide variety of background be it physics, economics, mathematics etc., but the thing that makes them data scientists is that they can use data to draw useful insights in there area of expertise be it finance, medicine, astronomy, etc.,
 
+Another aspect of the duties that are part of being a data scientist is the ability to communicate the findings to the business and management, to allow them to make decisions based off the learnings founds from perfomring analysis on the data. This is a vital reponsibility as this is where the real world impact of perfomring analysis as a data scientist comes into play.
+
 What differences/similarities do you see between data scientists and statisticians?
 
 The field of data science and statistics has its differences and similarities as per my understanding, some of them are stated below:
@@ -19,6 +21,8 @@ Differences:
 -Types of problems studied
 
 -Modelling Process
+
+-Statistics is more theoretical versus data science is more application based
 
 Similarities:
 
