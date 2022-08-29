@@ -13,6 +13,8 @@ Thank you so much for reading this!
 Sincerely,
 Naman Goel
 
-Fun Fact: I recently got locked out of my house and had to spend the night on the lawn swing!
+Fun Fact: I recently got locked out of my house and had to spend the night on the lawn swing! Also, the office is my favourite tv show.
 
 ![](https://github.com/namangoel05/namangoel05.github.io/blob/main/200w.gif)
+
+Go Pack!!!
