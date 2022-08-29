@@ -1,1 +1,16 @@
-This is a space where I will share ideas and my perspective on all things data science and statistics.
+Hey guys!
+
+How are y'all doing? 
+
+I'll quickyl give a brief about myself, the owner and author of this blog!
+
+My name is Naman Goel, from New Delhi, India and I am a grad student at North Carolina State University currently in my 3rd semester pursuing a Masters in Financial Mathematics. Prior to grad school, I have worked for almost 5 years in different fields(because, why not?) like siftware engineering, investing banking, and asset management of which turns out I liked the last the most(till now, hehe). Although, being at NC State, and exploring statistics like I've experienced never before has made me interested in being involved with the field in some form or manner in the future which is why I decided to opt for the course Data Science for Statisticians to learn more about Data Science and how it is being leveraged in today's times.
+
+Now, about the blog, this is a space where I will share ideas and my perspective on all things data science and statistics. I hope some of it makes sense, and if it doesn't, please let me know and pardon my ignorance as I am still learning.
+
+Thank you so much for reading this!
+
+Sincerely,
+Naman Goel
+
+Fun Fact: I recently got locked out of my house and had to spend the night on the lawn swing!
