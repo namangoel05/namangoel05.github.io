@@ -15,4 +15,4 @@ Naman Goel
 
 Fun Fact: I recently got locked out of my house and had to spend the night on the lawn swing!
 
-
+![](https://github.com/namangoel05/namangoel05.github.io/blob/main/200w.gif)
