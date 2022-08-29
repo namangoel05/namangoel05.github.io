@@ -17,6 +17,4 @@ Fun Fact: I recently got locked out of my house and had to spend the night on th
 
 ![](https://github.com/namangoel05/namangoel05.github.io/blob/main/200w.gif)
 
-![](https://github.com/namangoel05/namangoel05.github.io/blob/main/The-wise-words-of-Michael-Scott-Imgur-2.jpg)
-
 Go Pack!!!
