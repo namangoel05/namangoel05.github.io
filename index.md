@@ -10,8 +10,9 @@ Now, about the blog, this is a space where I will share ideas and my perspective
 
 Thank you so much for reading this!
 
-Sincerely,
-Naman Goel
+Sincerely,  
+Naman Goel  
+Email: ngoel2@ncsu.edu
 
 Fun Fact: I recently got locked out of my house and had to spend the night on the lawn swing! Also, the office is my favourite tv show.
 
