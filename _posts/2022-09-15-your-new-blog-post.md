@@ -16,7 +16,9 @@ Overall, it was a very interesting project and it made us learn so many function
 1) First and foremost, it would have helped me a lot had I worked on R a little more before starting the project in my opinion
 2) Would have read up the library documentation more in depth as there's so much that can be potentially done with functions like ggplot  
 
-But all in all, great learning experience and hopefully got the expected results.  
+But all in all, great learning experience and hopefully got the expected results. Please go through my project report and provide some feedback, always appreciate that. :)
+
+https://namangoel05.github.io/Naman_Goel_ST558_Project1.html
 
 Sincerely,
 Naman
