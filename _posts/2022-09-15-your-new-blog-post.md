@@ -1,4 +1,4 @@
-## Peoject 1 Learnings and Improvements
+## Project 1 Learnings and Improvements
 
 Hello Everyone,
 
