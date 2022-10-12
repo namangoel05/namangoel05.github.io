@@ -27,7 +27,10 @@ The challenges that we faced during the project were interesting to face and ove
 Approaching a similar project in the future, first of all I would understand the dataset better as that would allow me to create a better action plan as to what all end points, modifications and EDA could be potentially performed. This would also allow me to be creative with how can we manupilate the data and have better plots and data presented to the user. Additionally, I would spend more time on creating better plots and webpage in general, to make it look more presentable and good looking.  
 
 Finally, please find below the project website and please provide the appropriate feedback and comments:  
-https://namangoel05.github.io/ST558_Project2_2D/
+https://namangoel05.github.io/ST558_Project2_2D/  
+
+The link to the repo is as follows:  
+https://github.com/namangoel05/ST558_Project2_2D
 
 Sincerely,  
 Naman Goel
