@@ -23,6 +23,7 @@ The challenges that we faced during the project were interesting to face and ove
 3) The third challenge was where we had to figure out how to map the tickers with the stock names, we were puzzled how to go about the fact that user can likely not know the exact name of the ticker and would probably use only part of the name.  
 4) Another challenge that we faced was while working with the scatterplot, it took us a while to come up with an idea on what to plot for this type of graph.  
 5) We faced challenges in creating the render function as well, this was so because we had not done this before but we were able to get a solution for this using videos and google.  
+6) We faced challenge in coverting the UNIX time format to use readable time format, we were not able to fix that in time and are use had we invested more time into this we would have been able to resolve this.
 
 Approaching a similar project in the future, first of all I would understand the dataset better as that would allow me to create a better action plan as to what all end points, modifications and EDA could be potentially performed. This would also allow me to be creative with how can we manupilate the data and have better plots and data presented to the user. Additionally, I would spend more time on creating better plots and webpage in general, to make it look more presentable and good looking.  
 
