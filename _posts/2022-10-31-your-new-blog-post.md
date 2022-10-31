@@ -1,4 +1,4 @@
-Blog 4 - Regression Models Feature Selection  
+## Regression Models Feature Selection  
 
 Variable selection in regression, identifying the best subset among many variables to include in a model is arguably the hardest part of model building. Many variable selection methods exist because they provide a solution to one of the most important problems in statistics.  
 
