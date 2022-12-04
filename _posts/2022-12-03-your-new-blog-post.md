@@ -17,5 +17,5 @@ For me, personally, I am passionate about finance as a domain and would be pursu
 
 Finally, Thank you Dr. Post for all the learnings this semester. It was a great experience and I will carry the learnings with me all my life.  
 
-Sincerely,
+Sincerely,  
 Naman Goel
